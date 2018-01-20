@@ -1,1 +1,1 @@
-hello world 
+"Промяна с Bash…"
